@@ -1,0 +1,7 @@
+.mw-50{
+  max-width: 50%;
+}
+
+nav .navbar-nav li>a{
+  color: white !important;
+}
